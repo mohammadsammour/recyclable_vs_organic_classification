@@ -24,11 +24,8 @@ Deep-learning waste classifier for separating organic and recyclable items. It c
 - [Inference Pipeline](#inference-pipeline)
 - [Important Preprocessing Note](#important-preprocessing-note)
 - [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
 - [Troubleshooting](#troubleshooting)
-- [Security Note](#security-note)
 - [Author](#author)
-- [License](#license)
 
 ---
 
